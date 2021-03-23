@@ -1,5 +1,9 @@
 shader_type canvas_item;
 
+// Copyright 2021 Daniel Long
+// This file is availiable under the MIT Liscence
+// Rain technique inspired by https://www.youtube.com/watch?v=s0uVDYjnrWY
+
 uniform sampler2D noise_tex;
 uniform float intensity: hint_range(0.0,1.0) = 1.0;
 uniform vec2 player_pos;
