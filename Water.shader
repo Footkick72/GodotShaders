@@ -1,7 +1,7 @@
 shader_type canvas_item;
 
-// Gonkee's water shader for Godot 3 - full tutorial https://youtu.be/uhMAHpV_cDg
-// If you use this shader, I would prefer if you gave credit to me and my channel
+// Modified from Gonkee's water shader for Godot 3 - full tutorial https://youtu.be/uhMAHpV_cDg
+// Channel link https://www.youtube.com/channel/UCJqCPFHdbc6443G3Sz6VYDw
 
 uniform vec4 blue_tint : hint_color;
 
