@@ -1,7 +1,7 @@
 shader_type canvas_item;
 
 // Copyright 2021 Daniel Long
-// This file is availiable under the MIT Liscence
+// This file is availiable under the MIT License
 // Rain technique inspired by https://www.youtube.com/watch?v=s0uVDYjnrWY
 
 uniform sampler2D noise_tex;
