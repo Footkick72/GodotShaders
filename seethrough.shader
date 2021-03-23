@@ -1,7 +1,7 @@
 shader_type canvas_item;
 
 // Copyright 2021 Daniel Long
-// This file is availiable under the MIT Liscence
+// This file is availiable under the MIT License
 
 uniform vec2 player_pos;
 uniform vec2 viewport_scale;
