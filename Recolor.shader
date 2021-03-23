@@ -1,5 +1,8 @@
 shader_type canvas_item;
 
+// Copyright 2021 Daniel Long
+// This file is availiable under the MIT Liscence
+
 uniform float grey_amount: hint_range(0,1) = 0.25;
 
 void fragment() {
